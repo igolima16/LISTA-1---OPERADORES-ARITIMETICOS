@@ -1,0 +1,7 @@
+C:\Users\lima\source\repos\OPA-ex10\OPA-ex10\bin\Debug\OPA-ex10.exe.config
+C:\Users\lima\source\repos\OPA-ex10\OPA-ex10\bin\Debug\OPA-ex10.exe
+C:\Users\lima\source\repos\OPA-ex10\OPA-ex10\bin\Debug\OPA-ex10.pdb
+C:\Users\lima\source\repos\OPA-ex10\OPA-ex10\obj\Debug\OPA-ex10.csproj.AssemblyReference.cache
+C:\Users\lima\source\repos\OPA-ex10\OPA-ex10\obj\Debug\OPA-ex10.csproj.CoreCompileInputs.cache
+C:\Users\lima\source\repos\OPA-ex10\OPA-ex10\obj\Debug\OPA-ex10.exe
+C:\Users\lima\source\repos\OPA-ex10\OPA-ex10\obj\Debug\OPA-ex10.pdb
